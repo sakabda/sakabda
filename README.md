@@ -60,60 +60,6 @@ const sakabda = {
 
 ---
 
-## 📌 Featured Projects
-
-### 🌐 React PWA — Offline-First Task Manager
-> **React 18 · TypeScript · Vite · Service Workers · IndexedDB · Workbox**
-
-A production-grade **Progressive Web App** built with a true offline-first architecture. Installable on any device, works without internet, and syncs seamlessly when back online.
-
-**Key highlights:**
-- ⚙️ Custom **Service Worker** with Workbox for intelligent caching strategies (cache-first, network-first, stale-while-revalidate)
-- 💾 **IndexedDB** persistence via idb for offline data storage + background sync API
-- 📲 Full **installability** — custom install prompt, splash screens, app icons for all platforms
-- 🔔 **Push notifications** with the Web Push API
-- 📊 Lighthouse score: **Performance 98 · PWA 100 · Accessibility 97**
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakabda/react-pwa-task-manager) [![Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white)](#)
-
----
-
-### 🚢 Ship Inspection & Admin Dashboard
-> **Angular · TypeScript ·**
-
-Enterprise-grade maritime admin system with comprehensive inspection management and real-time analytics. Full CRUD, advanced filtering, and a clean architecture that scales.
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakabda/reports-admin)
-
----
-
-### 💼 Company Asset Management System
-> **React · TypeScript · Vite · Tailwind CSS · Shadcn UI**
-
-Modern web application for managing company assets with role-based access control, authentication, and responsive design. Clean component architecture with type-safe APIs.
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakabda/company-assets-management) [![Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white)](#)
-
----
-
-### 🖥️ Angular + Tauri Desktop App
-> **Angular 14 · Tauri · Rust · Ant Design · SQLite**
-
-Cross-platform desktop application with native OS integrations, local SQLite database, and a polished UI. Packages to a tiny binary — no Electron bloat.
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakabda/angular-tauri)
-
----
-
-### 🎨 Personal Portfolio
-> **Next.js · TypeScript · Tailwind CSS · Framer Motion**
-
-Portfolio with modern animations, gradient designs, and optimized Lighthouse scores. Deployed on Vercel.
-
-[![Live](https://img.shields.io/badge/Visit_Live-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://sakabda-das-portfolio.vercel.app/) [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakabda/portfolio)
-
----
-
 ## 📦 Open Source — Published npm Package
 
 <div align="center">
@@ -128,19 +74,6 @@ A lightweight utility for intelligently clearing console output with customizabl
 ```bash
 npm install smart-console-cleaner
 ```
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakabda&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&icon_color=0EA5E9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakabda&layout=compact&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&langs_count=6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakabda&hide_border=true&background=0d1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
