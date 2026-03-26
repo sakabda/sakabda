@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sakabda+Das;Frontend+Web+Developer;Building+Premium+Web+Experiences" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Sakabda+Das;Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Building+Premium+Web+Experiences" />
+</p>
 
 <div align="center">
 
