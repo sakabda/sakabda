@@ -47,7 +47,6 @@ I'm a passionate **Frontend Web Developer** with **4+ years** of professional ex
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -77,11 +76,10 @@ I'm a passionate **Frontend Web Developer** with **4+ years** of professional ex
 <div align="center">
 
 ### 🚢 Ship Inspection & Dashboard
-**Angular 21 | Material UI | CRUD Operations**
 
 An enterprise-grade maritime administration system with comprehensive ship inspection management and real-time dashboard analytics. Features full CRUD operations, advanced filtering, and material design UI components with proper folder structure.
 
-[View Repository](https://github.com/sakabda/reports-admin) · [Live Demo](#)
+[View Repository](https://github.com/sakabda/reports-admin)
 
 ---
 
